@@ -54,4 +54,4 @@ The database is designed with normalized tables to ensure data integrity and min
     * Drops specific rows from each table.
 
 ## Credits
-This project was developed as part of the [Full Stack Web Development BootCamp](https://program.skilvul.com/bootcamp-pi2023-webdev) organized by [Perempuan Inovasi 2023](https://www.markoding.org/perempuan-inovasi) during the Back End Web Dev Stage.
+This project was developed as part of the [Full Stack Web Development BootCamp 2023](https://program.skilvul.com/bootcamp-pi2023-webdev) organized by [Perempuan Inovasi](https://www.markoding.org/perempuan-inovasi) during the Back End Web Dev Stage.
